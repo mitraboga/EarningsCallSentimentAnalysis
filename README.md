@@ -1,4 +1,28 @@
-# 📞 S&P 500 Earnings Call Sentiment Analysis
+<h1 align="center">📞 S&P 500 Earnings Call Sentiment Analysis 🗣️</h1>
+<h3 align="center">NLP Pipeline + Power BI Dashboard to Quantify Management Tone</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-Modeling-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-FFD54F?logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Task-Sentiment%20Analysis-8A2BE2" alt="Sentiment Analysis" />
+  <img src="https://img.shields.io/badge/Data-SEC%20EDGAR-2ea44f" alt="SEC EDGAR" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://mitraboga.github.io/EarningsCallSentimentAnalysis/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/PowerBI_Dashboard_GIF.gif" width="95%" alt="Live PowerBI Dashboard Preview"/>
+  </a>
+</p>
+
+---
 
 Turn raw earnings-call transcripts into **decision-grade sentiment metrics** that quantify how **management, analysts, and the market narrative** evolve over time.
 
