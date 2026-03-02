@@ -361,10 +361,9 @@ These tooltips don’t just repeat visible charts — they provide **diagnostics
 
 ## Tooltip #1 — Role Gap + Gap Percentile (Divergence Diagnostics)
 
-<details>
-  <summary><b>Click to expand (Tooltip #1)</b></summary>
+<p align="left">
   <img src="assets/powerbi/tooltip_1_role_gap.png" width="500" />
-</details>
+</p>
 
 ### What it shows
 - **FinBERT Gap** and **VADER Gap** (Management − Analyst)
@@ -398,10 +397,9 @@ A divergence between Management and Analysts can signal:
 
 ## Tooltip #2 — Sentiment Mix + “Δ vs Company Baseline”
 
-<details>
-  <summary><b>Click to expand (Tooltip #2)</b></summary>
+<p align="left">
   <img src="assets/powerbi/tooltip_2_baseline.png" width="500" />
-</details>
+</p>
 
 ### What it shows
 - Distribution cards:
@@ -436,10 +434,9 @@ It tells you if the tone is *actually unusual* or just “business as usual” f
 
 ## Tooltip #3 — QoQ Momentum + Call Extremes (Best/Worst CallKey)
 
-<details>
-  <summary><b>Click to expand (Tooltip #3)</b></summary>
+<p align="left">
   <img src="assets/powerbi/tooltip_3_extremes.png" width="500" />
-</details>
+</p>
 
 ### What it shows
 - Momentum cards:
