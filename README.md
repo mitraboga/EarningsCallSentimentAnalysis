@@ -7,12 +7,15 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-Arrays-013243?logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-Modeling-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLP-Transformers-FFD54F?logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD54F?logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/VADER-Sentiment%20Lexicon-2E7D32" alt="VADER" />
+  <img src="https://img.shields.io/badge/FinBERT-Financial%20Sentiment-FFD54F?logo=huggingface&logoColor=black" alt="FinBERT" />
+  <img src="https://img.shields.io/badge/ETL-Pipelines-6A5ACD" alt="ETL Pipelines" />
   <img src="https://img.shields.io/badge/Task-Sentiment%20Analysis-8A2BE2" alt="Sentiment Analysis" />
   <img src="https://img.shields.io/badge/Data-SEC%20EDGAR-2ea44f" alt="SEC EDGAR" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
-</p>
+</p>>
 
 ---
 
