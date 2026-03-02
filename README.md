@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://mitraboga.github.io/EarningsCallSentimentAnalysis/" target="_blank" rel="noopener noreferrer">
-    <img src="assets/PowerBI_Dashboard_GIF.gif" width="95%" alt="Live PowerBI Dashboard Preview"/>
+    <img src="assets/powerbi/PowerBI_Dashboard_GIF.gif" width="95%" alt="Live PowerBI Dashboard Preview"/>
   </a>
 </p>
 
