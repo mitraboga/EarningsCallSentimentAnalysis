@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Data-SEC%20EDGAR-2ea44f" alt="SEC EDGAR" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License" />
-</p>>
+</p>
 
 ---
 
