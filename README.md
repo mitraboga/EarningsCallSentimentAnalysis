@@ -1,4 +1,4 @@
-# 📞 S&P 500 Earnings Call Sentiment Analysis (VADER + FinBERT) 
+# 📞 S&P 500 Earnings Call Sentiment Analysis
 
 Turn raw earnings-call transcripts into **decision-grade sentiment metrics** that quantify how **management, analysts, and the market narrative** evolve over time.
 
